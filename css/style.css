@@ -476,22 +476,6 @@ a {
   .block-47 .block-47-quote .block-47-quote-author {
     font-size: 14px;
     color: #666666; }
-    .container2{
-      width:110%;
-      padding-right:15px;
-      padding-left:30px;
-      margin-right:auto;
-      margin-left:auto;
-    }
-    @media (min-width:576px)
-    {.container2{max-width:540px}}
-    @media (min-width:768px)
-    {.container2{max-width:720px}}
-    @media (min-width:992px)
-    {.container2{max-width:960px}}
-    @media (min-width:1200px)
-    {.container2{max-width:1140px}}
-    .container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
     .social li{
        list-style: none;
        margin: 10px 30px;
